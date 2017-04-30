@@ -1,4 +1,4 @@
-# Task2
+# Simple task to create table and select from the table.
 
 Steps for this task:
 1- Create MySQL database
