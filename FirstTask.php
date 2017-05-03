@@ -1,9 +1,9 @@
+
 <html>
 <head>
 </head>
 
 <body>
-   //initialize connection
 <?php
    
 
@@ -25,3 +25,4 @@
 </body>
 
 </html>
+
