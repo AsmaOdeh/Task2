@@ -3,6 +3,7 @@
 </head>
 
 <body>
+   //initialize connection
 <?php
    
 
