@@ -5,10 +5,7 @@
 <body>
    //initialize connection
 <?php
-   
-
-   $conn = mysqli_connect("localhost", "root", "","task1db");
- 
+   include "connect.php";
    
  
   $result= $conn->query( "SELECT * FROM blog");
